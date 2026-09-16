@@ -23,7 +23,7 @@ export interface LandmarkExtractorConfig {
   minTrackingConfidence?: number;
 }
 
-// --- Milestone M1.2 Additions ---
+// --- Milestone M1.2 & M2.2 Additions ---
 
 export const FEATURE_DIMENSIONS = {
   POSE_LANDMARKS: 33 * 3, // 99 floats
@@ -67,15 +67,20 @@ export interface ModelPredictionResult {
 
 export const HEALTHCARE_RECEPTION_VOCABULARY = [
   'GREETING_HELLO',
-  'PATIENT_REGISTRATION',
-  'DOCTOR_AVAILABILITY',
-  'OPD_LOCATION',
-  'EMERGENCY_DEPT',
-  'PHARMACY_LOCATION',
-  'BILLING_COUNTER',
-  'WHEELCHAIR_REQUEST',
+  'DOCTOR',
+  'HOSPITAL',
+  'PHARMACY_MEDICINE',
+  'PATIENT',
   'PAIN_SYMPTOM',
-  'THANK_YOU'
+  'BILLING_PAYMENT',
+  'LOCATION_WHERE',
+  'TIME_WHEN',
+  'TODAY',
+  'TOMORROW',
+  'MORNING',
+  'AFTERNOON',
+  'PRONOUN_I',
+  'PRONOUN_YOU'
 ] as const;
 
 export type HealthcareGestureClass = typeof HEALTHCARE_RECEPTION_VOCABULARY[number];
