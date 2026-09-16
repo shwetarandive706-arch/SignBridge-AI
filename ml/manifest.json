@@ -1,0 +1,2532 @@
+[
+  {
+    "sample_id": "INCLUDE_Hospital_train_MVI_3316",
+    "class_id": "HOSPITAL",
+    "gloss": "Hospital",
+    "category": "Places",
+    "split": "train",
+    "video_path": "Places/30. Hospital/MVI_3316.MOV",
+    "signer_id": null,
+    "download_url": null
+  },
+  {
+    "sample_id": "INCLUDE_Today_train_MVI_5033",
+    "class_id": "TODAY",
+    "gloss": "Today",
+    "category": "Days_and_Time",
+    "split": "train",
+    "video_path": "Days_and_Time/73. Today/MVI_5033.MOV",
+    "signer_id": null,
+    "download_url": null
+  },
+  {
+    "sample_id": "INCLUDE_you_train_MVI_0015",
+    "class_id": "PRONOUN_YOU",
+    "gloss": "you",
+    "category": "Pronouns",
+    "split": "train",
+    "video_path": "Pronouns/41. you/MVI_0015.MOV",
+    "signer_id": null,
+    "download_url": null
+  },
+  {
+    "sample_id": "INCLUDE_Hospital_train_MVI_3560",
+    "class_id": "HOSPITAL",
+    "gloss": "Hospital",
+    "category": "Places",
+    "split": "train",
+    "video_path": "Places/30. Hospital/MVI_3560.MOV",
+    "signer_id": null,
+    "download_url": null
+  },
+  {
+    "sample_id": "INCLUDE_sick_train_MVI_9282",
+    "class_id": "PAIN_SYMPTOM",
+    "gloss": "sick",
+    "category": "Adjectives",
+    "split": "train",
+    "video_path": "Adjectives/98. sick/MVI_9282.MOV",
+    "signer_id": null,
+    "download_url": null
+  },
+  {
+    "sample_id": "INCLUDE_Time_train_MVI_4667",
+    "class_id": "TIME_WHEN",
+    "gloss": "Time",
+    "category": "Days_and_Time",
+    "split": "train",
+    "video_path": "Days_and_Time/86. Time/MVI_4667.MOV",
+    "signer_id": null,
+    "download_url": null
+  },
+  {
+    "sample_id": "INCLUDE_Hospital_train_MVI_3480",
+    "class_id": "HOSPITAL",
+    "gloss": "Hospital",
+    "category": "Places",
+    "split": "train",
+    "video_path": "Places/30. Hospital/MVI_3480.MOV",
+    "signer_id": null,
+    "download_url": null
+  },
+  {
+    "sample_id": "INCLUDE_Afternoon_train_MVI_9191",
+    "class_id": "AFTERNOON",
+    "gloss": "Afternoon",
+    "category": "Days_and_Time",
+    "split": "train",
+    "video_path": "Days_and_Time/83. Afternoon/MVI_9191.MOV",
+    "signer_id": null,
+    "download_url": null
+  },
+  {
+    "sample_id": "INCLUDE_Today_train_MVI_4617",
+    "class_id": "TODAY",
+    "gloss": "Today",
+    "category": "Days_and_Time",
+    "split": "train",
+    "video_path": "Days_and_Time/73. Today/MVI_4617.MOV",
+    "signer_id": null,
+    "download_url": null
+  },
+  {
+    "sample_id": "INCLUDE_I_train_MVI_9958",
+    "class_id": "PRONOUN_I",
+    "gloss": "I",
+    "category": "Pronouns",
+    "split": "train",
+    "video_path": "Pronouns/40. I/MVI_9958.MOV",
+    "signer_id": null,
+    "download_url": null
+  },
+  {
+    "sample_id": "INCLUDE_you_train_MVI_9960",
+    "class_id": "PRONOUN_YOU",
+    "gloss": "you",
+    "category": "Pronouns",
+    "split": "train",
+    "video_path": "Pronouns/41. you/MVI_9960.MOV",
+    "signer_id": null,
+    "download_url": null
+  },
+  {
+    "sample_id": "INCLUDE_sick_train_MVI_5171",
+    "class_id": "PAIN_SYMPTOM",
+    "gloss": "sick",
+    "category": "Adjectives",
+    "split": "train",
+    "video_path": "Adjectives/98. sick/MVI_5171.MOV",
+    "signer_id": null,
+    "download_url": null
+  },
+  {
+    "sample_id": "INCLUDE_Doctor_train_MVI_8874",
+    "class_id": "DOCTOR",
+    "gloss": "Doctor",
+    "category": "Jobs",
+    "split": "train",
+    "video_path": "Jobs/87. Doctor/MVI_8874.MOV",
+    "signer_id": null,
+    "download_url": null
+  },
+  {
+    "sample_id": "INCLUDE_Hospital_train_MVI_3482",
+    "class_id": "HOSPITAL",
+    "gloss": "Hospital",
+    "category": "Places",
+    "split": "train",
+    "video_path": "Places/30. Hospital/MVI_3482.MOV",
+    "signer_id": null,
+    "download_url": null
+  },
+  {
+    "sample_id": "INCLUDE_Medicine_train_MVI_8935",
+    "class_id": "PHARMACY_MEDICINE",
+    "gloss": "Medicine",
+    "category": "Society",
+    "split": "train",
+    "video_path": "Society/3. Medicine/MVI_8935.MOV",
+    "signer_id": null,
+    "download_url": null
+  },
+  {
+    "sample_id": "INCLUDE_Morning_train_MVI_9190",
+    "class_id": "MORNING",
+    "gloss": "Morning",
+    "category": "Days_and_Time",
+    "split": "train",
+    "video_path": "Days_and_Time/82. Morning/MVI_9190.MOV",
+    "signer_id": null,
+    "download_url": null
+  },
+  {
+    "sample_id": "INCLUDE_you_train_MVI_9999",
+    "class_id": "PRONOUN_YOU",
+    "gloss": "you",
+    "category": "Pronouns",
+    "split": "train",
+    "video_path": "Pronouns/41. you/MVI_9999.MOV",
+    "signer_id": null,
+    "download_url": null
+  },
+  {
+    "sample_id": "INCLUDE_I_train_MVI_9880",
+    "class_id": "PRONOUN_I",
+    "gloss": "I",
+    "category": "Pronouns",
+    "split": "train",
+    "video_path": "Pronouns/40. I/MVI_9880.MOV",
+    "signer_id": null,
+    "download_url": null
+  },
+  {
+    "sample_id": "INCLUDE_Location_train_MVI_3343",
+    "class_id": "LOCATION_WHERE",
+    "gloss": "Location",
+    "category": "Places",
+    "split": "train",
+    "video_path": "Places/36. Location/MVI_3343.MOV",
+    "signer_id": null,
+    "download_url": null
+  },
+  {
+    "sample_id": "INCLUDE_sick_train_MVI_9281",
+    "class_id": "PAIN_SYMPTOM",
+    "gloss": "sick",
+    "category": "Adjectives",
+    "split": "train",
+    "video_path": "Adjectives/98. sick/MVI_9281.MOV",
+    "signer_id": null,
+    "download_url": null
+  },
+  {
+    "sample_id": "INCLUDE_Afternoon_train_MVI_4658",
+    "class_id": "AFTERNOON",
+    "gloss": "Afternoon",
+    "category": "Days_and_Time",
+    "split": "train",
+    "video_path": "Days_and_Time/83. Afternoon/MVI_4658.MOV",
+    "signer_id": null,
+    "download_url": null
+  },
+  {
+    "sample_id": "INCLUDE_Medicine_train_MVI_4803",
+    "class_id": "PHARMACY_MEDICINE",
+    "gloss": "Medicine",
+    "category": "Society",
+    "split": "train",
+    "video_path": "Society/3. Medicine/MVI_4803.MOV",
+    "signer_id": null,
+    "download_url": null
+  },
+  {
+    "sample_id": "INCLUDE_Hello_train_MVI_0089",
+    "class_id": "GREETING_HELLO",
+    "gloss": "Hello",
+    "category": "Greetings",
+    "split": "train",
+    "video_path": "Greetings/48. Hello/MVI_0089.MOV",
+    "signer_id": null,
+    "download_url": null
+  },
+  {
+    "sample_id": "INCLUDE_Morning_train_MVI_4652",
+    "class_id": "MORNING",
+    "gloss": "Morning",
+    "category": "Days_and_Time",
+    "split": "train",
+    "video_path": "Days_and_Time/82. Morning/MVI_4652.MOV",
+    "signer_id": null,
+    "download_url": null
+  },
+  {
+    "sample_id": "INCLUDE_you_train_MVI_9926",
+    "class_id": "PRONOUN_YOU",
+    "gloss": "you",
+    "category": "Pronouns",
+    "split": "train",
+    "video_path": "Pronouns/41. you/MVI_9926.MOV",
+    "signer_id": null,
+    "download_url": null
+  },
+  {
+    "sample_id": "INCLUDE_Hospital_train_MVI_3397",
+    "class_id": "HOSPITAL",
+    "gloss": "Hospital",
+    "category": "Places",
+    "split": "train",
+    "video_path": "Places/30. Hospital/MVI_3397.MOV",
+    "signer_id": null,
+    "download_url": null
+  },
+  {
+    "sample_id": "INCLUDE_sick_train_MVI_5330",
+    "class_id": "PAIN_SYMPTOM",
+    "gloss": "sick",
+    "category": "Adjectives",
+    "split": "train",
+    "video_path": "Adjectives/98. sick/MVI_5330.MOV",
+    "signer_id": null,
+    "download_url": null
+  },
+  {
+    "sample_id": "INCLUDE_Afternoon_train_MVI_4656",
+    "class_id": "AFTERNOON",
+    "gloss": "Afternoon",
+    "category": "Days_and_Time",
+    "split": "train",
+    "video_path": "Days_and_Time/83. Afternoon/MVI_4656.MOV",
+    "signer_id": null,
+    "download_url": null
+  },
+  {
+    "sample_id": "INCLUDE_Hello_train_MVI_0031",
+    "class_id": "GREETING_HELLO",
+    "gloss": "Hello",
+    "category": "Greetings",
+    "split": "train",
+    "video_path": "Greetings/48. Hello/MVI_0031.MOV",
+    "signer_id": null,
+    "download_url": null
+  },
+  {
+    "sample_id": "INCLUDE_Hospital_train_MVI_3638",
+    "class_id": "HOSPITAL",
+    "gloss": "Hospital",
+    "category": "Places",
+    "split": "train",
+    "video_path": "Places/30. Hospital/MVI_3638.MOV",
+    "signer_id": null,
+    "download_url": null
+  },
+  {
+    "sample_id": "INCLUDE_you_train_MVI_9962",
+    "class_id": "PRONOUN_YOU",
+    "gloss": "you",
+    "category": "Pronouns",
+    "split": "train",
+    "video_path": "Pronouns/41. you/MVI_9962.MOV",
+    "signer_id": null,
+    "download_url": null
+  },
+  {
+    "sample_id": "INCLUDE_Tomorrow_train_MVI_5475",
+    "class_id": "TOMORROW",
+    "gloss": "Tomorrow",
+    "category": "Days_and_Time",
+    "split": "train",
+    "video_path": "Days_and_Time/74. Tomorrow/MVI_5475.MOV",
+    "signer_id": null,
+    "download_url": null
+  },
+  {
+    "sample_id": "INCLUDE_Time_train_MVI_4668",
+    "class_id": "TIME_WHEN",
+    "gloss": "Time",
+    "category": "Days_and_Time",
+    "split": "train",
+    "video_path": "Days_and_Time/86. Time/MVI_4668.MOV",
+    "signer_id": null,
+    "download_url": null
+  },
+  {
+    "sample_id": "INCLUDE_you_train_MVI_0016",
+    "class_id": "PRONOUN_YOU",
+    "gloss": "you",
+    "category": "Pronouns",
+    "split": "train",
+    "video_path": "Pronouns/41. you/MVI_0016.MOV",
+    "signer_id": null,
+    "download_url": null
+  },
+  {
+    "sample_id": "INCLUDE_Location_train_MVI_3427",
+    "class_id": "LOCATION_WHERE",
+    "gloss": "Location",
+    "category": "Places",
+    "split": "train",
+    "video_path": "Places/36. Location/MVI_3427.MOV",
+    "signer_id": null,
+    "download_url": null
+  },
+  {
+    "sample_id": "INCLUDE_Afternoon_train_MVI_9192",
+    "class_id": "AFTERNOON",
+    "gloss": "Afternoon",
+    "category": "Days_and_Time",
+    "split": "train",
+    "video_path": "Days_and_Time/83. Afternoon/MVI_9192.MOV",
+    "signer_id": null,
+    "download_url": null
+  },
+  {
+    "sample_id": "INCLUDE_Location_train_MVI_3506",
+    "class_id": "LOCATION_WHERE",
+    "gloss": "Location",
+    "category": "Places",
+    "split": "train",
+    "video_path": "Places/36. Location/MVI_3506.MOV",
+    "signer_id": null,
+    "download_url": null
+  },
+  {
+    "sample_id": "INCLUDE_I_train_MVI_9957",
+    "class_id": "PRONOUN_I",
+    "gloss": "I",
+    "category": "Pronouns",
+    "split": "train",
+    "video_path": "Pronouns/40. I/MVI_9957.MOV",
+    "signer_id": null,
+    "download_url": null
+  },
+  {
+    "sample_id": "INCLUDE_Morning_train_MVI_5509",
+    "class_id": "MORNING",
+    "gloss": "Morning",
+    "category": "Days_and_Time",
+    "split": "train",
+    "video_path": "Days_and_Time/82. Morning/MVI_5509.MOV",
+    "signer_id": null,
+    "download_url": null
+  },
+  {
+    "sample_id": "INCLUDE_Hello_train_MVI_0038",
+    "class_id": "GREETING_HELLO",
+    "gloss": "Hello",
+    "category": "Greetings",
+    "split": "train",
+    "video_path": "Greetings/48. Hello/MVI_0038.MOV",
+    "signer_id": null,
+    "download_url": null
+  },
+  {
+    "sample_id": "INCLUDE_sick_train_MVI_9442",
+    "class_id": "PAIN_SYMPTOM",
+    "gloss": "sick",
+    "category": "Adjectives",
+    "split": "train",
+    "video_path": "Adjectives/98. sick/MVI_9442.MOV",
+    "signer_id": null,
+    "download_url": null
+  },
+  {
+    "sample_id": "INCLUDE_you_train_MVI_9888",
+    "class_id": "PRONOUN_YOU",
+    "gloss": "you",
+    "category": "Pronouns",
+    "split": "train",
+    "video_path": "Pronouns/41. you/MVI_9888.MOV",
+    "signer_id": null,
+    "download_url": null
+  },
+  {
+    "sample_id": "INCLUDE_Location_train_MVI_3586",
+    "class_id": "LOCATION_WHERE",
+    "gloss": "Location",
+    "category": "Places",
+    "split": "train",
+    "video_path": "Places/36. Location/MVI_3586.MOV",
+    "signer_id": null,
+    "download_url": null
+  },
+  {
+    "sample_id": "INCLUDE_Patient_train_MVI_5328",
+    "class_id": "PATIENT",
+    "gloss": "Patient",
+    "category": "Jobs",
+    "split": "train",
+    "video_path": "Jobs/88. Patient/MVI_5328.MOV",
+    "signer_id": null,
+    "download_url": null
+  },
+  {
+    "sample_id": "INCLUDE_Bill_train_MVI_8674",
+    "class_id": "BILLING_PAYMENT",
+    "gloss": "Bill",
+    "category": "Society",
+    "split": "train",
+    "video_path": "Society/5. Bill/MVI_8674.MOV",
+    "signer_id": null,
+    "download_url": null
+  },
+  {
+    "sample_id": "INCLUDE_Patient_train_MVI_4477",
+    "class_id": "PATIENT",
+    "gloss": "Patient",
+    "category": "Jobs",
+    "split": "train",
+    "video_path": "Jobs/88. Patient/MVI_4477.MOV",
+    "signer_id": null,
+    "download_url": null
+  },
+  {
+    "sample_id": "INCLUDE_Medicine_train_MVI_8666",
+    "class_id": "PHARMACY_MEDICINE",
+    "gloss": "Medicine",
+    "category": "Society",
+    "split": "train",
+    "video_path": "Society/3. Medicine/MVI_8666.MOV",
+    "signer_id": null,
+    "download_url": null
+  },
+  {
+    "sample_id": "INCLUDE_Hello_train_MVI_0037",
+    "class_id": "GREETING_HELLO",
+    "gloss": "Hello",
+    "category": "Greetings",
+    "split": "train",
+    "video_path": "Greetings/48. Hello/MVI_0037.MOV",
+    "signer_id": null,
+    "download_url": null
+  },
+  {
+    "sample_id": "INCLUDE_Doctor_train_MVI_4470",
+    "class_id": "DOCTOR",
+    "gloss": "Doctor",
+    "category": "Jobs",
+    "split": "train",
+    "video_path": "Jobs/87. Doctor/MVI_4470.MOV",
+    "signer_id": null,
+    "download_url": null
+  },
+  {
+    "sample_id": "INCLUDE_sick_train_MVI_5252",
+    "class_id": "PAIN_SYMPTOM",
+    "gloss": "sick",
+    "category": "Adjectives",
+    "split": "train",
+    "video_path": "Adjectives/98. sick/MVI_5252.MOV",
+    "signer_id": null,
+    "download_url": null
+  },
+  {
+    "sample_id": "INCLUDE_sick_train_MVI_9364",
+    "class_id": "PAIN_SYMPTOM",
+    "gloss": "sick",
+    "category": "Adjectives",
+    "split": "train",
+    "video_path": "Adjectives/98. sick/MVI_9364.MOV",
+    "signer_id": null,
+    "download_url": null
+  },
+  {
+    "sample_id": "INCLUDE_Location_train_MVI_3507",
+    "class_id": "LOCATION_WHERE",
+    "gloss": "Location",
+    "category": "Places",
+    "split": "train",
+    "video_path": "Places/36. Location/MVI_3507.MOV",
+    "signer_id": null,
+    "download_url": null
+  },
+  {
+    "sample_id": "INCLUDE_Time_train_MVI_5526",
+    "class_id": "TIME_WHEN",
+    "gloss": "Time",
+    "category": "Days_and_Time",
+    "split": "train",
+    "video_path": "Days_and_Time/86. Time/MVI_5526.MOV",
+    "signer_id": null,
+    "download_url": null
+  },
+  {
+    "sample_id": "INCLUDE_Patient_train_MVI_8880",
+    "class_id": "PATIENT",
+    "gloss": "Patient",
+    "category": "Jobs",
+    "split": "train",
+    "video_path": "Jobs/88. Patient/MVI_8880.MOV",
+    "signer_id": null,
+    "download_url": null
+  },
+  {
+    "sample_id": "INCLUDE_you_train_MVI_9885",
+    "class_id": "PRONOUN_YOU",
+    "gloss": "you",
+    "category": "Pronouns",
+    "split": "train",
+    "video_path": "Pronouns/41. you/MVI_9885.MOV",
+    "signer_id": null,
+    "download_url": null
+  },
+  {
+    "sample_id": "INCLUDE_Time_train_MVI_5078",
+    "class_id": "TIME_WHEN",
+    "gloss": "Time",
+    "category": "Days_and_Time",
+    "split": "train",
+    "video_path": "Days_and_Time/86. Time/MVI_5078.MOV",
+    "signer_id": null,
+    "download_url": null
+  },
+  {
+    "sample_id": "INCLUDE_Doctor_train_MVI_4757",
+    "class_id": "DOCTOR",
+    "gloss": "Doctor",
+    "category": "Jobs",
+    "split": "train",
+    "video_path": "Jobs/87. Doctor/MVI_4757.MOV",
+    "signer_id": null,
+    "download_url": null
+  },
+  {
+    "sample_id": "INCLUDE_Patient_train_MVI_4759",
+    "class_id": "PATIENT",
+    "gloss": "Patient",
+    "category": "Jobs",
+    "split": "train",
+    "video_path": "Jobs/88. Patient/MVI_4759.MOV",
+    "signer_id": null,
+    "download_url": null
+  },
+  {
+    "sample_id": "INCLUDE_Medicine_train_MVI_8667",
+    "class_id": "PHARMACY_MEDICINE",
+    "gloss": "Medicine",
+    "category": "Society",
+    "split": "train",
+    "video_path": "Society/3. Medicine/MVI_8667.MOV",
+    "signer_id": null,
+    "download_url": null
+  },
+  {
+    "sample_id": "INCLUDE_Today_train_MVI_9161",
+    "class_id": "TODAY",
+    "gloss": "Today",
+    "category": "Days_and_Time",
+    "split": "train",
+    "video_path": "Days_and_Time/73. Today/MVI_9161.MOV",
+    "signer_id": null,
+    "download_url": null
+  },
+  {
+    "sample_id": "INCLUDE_Hello_train_MVI_9982",
+    "class_id": "GREETING_HELLO",
+    "gloss": "Hello",
+    "category": "Greetings",
+    "split": "train",
+    "video_path": "Greetings/48. Hello/MVI_9982.MOV",
+    "signer_id": null,
+    "download_url": null
+  },
+  {
+    "sample_id": "INCLUDE_Location_train_MVI_3505",
+    "class_id": "LOCATION_WHERE",
+    "gloss": "Location",
+    "category": "Places",
+    "split": "train",
+    "video_path": "Places/36. Location/MVI_3505.MOV",
+    "signer_id": null,
+    "download_url": null
+  },
+  {
+    "sample_id": "INCLUDE_Morning_train_MVI_4653",
+    "class_id": "MORNING",
+    "gloss": "Morning",
+    "category": "Days_and_Time",
+    "split": "train",
+    "video_path": "Days_and_Time/82. Morning/MVI_4653.MOV",
+    "signer_id": null,
+    "download_url": null
+  },
+  {
+    "sample_id": "INCLUDE_Location_train_MVI_3674",
+    "class_id": "LOCATION_WHERE",
+    "gloss": "Location",
+    "category": "Places",
+    "split": "train",
+    "video_path": "Places/36. Location/Extra/MVI_3674.MOV",
+    "signer_id": null,
+    "download_url": null
+  },
+  {
+    "sample_id": "INCLUDE_you_train_MVI_9997",
+    "class_id": "PRONOUN_YOU",
+    "gloss": "you",
+    "category": "Pronouns",
+    "split": "train",
+    "video_path": "Pronouns/41. you/MVI_9997.MOV",
+    "signer_id": null,
+    "download_url": null
+  },
+  {
+    "sample_id": "INCLUDE_Morning_train_MVI_5507",
+    "class_id": "MORNING",
+    "gloss": "Morning",
+    "category": "Days_and_Time",
+    "split": "train",
+    "video_path": "Days_and_Time/82. Morning/MVI_5507.MOV",
+    "signer_id": null,
+    "download_url": null
+  },
+  {
+    "sample_id": "INCLUDE_sick_train_MVI_5253",
+    "class_id": "PAIN_SYMPTOM",
+    "gloss": "sick",
+    "category": "Adjectives",
+    "split": "train",
+    "video_path": "Adjectives/98. sick/MVI_5253.MOV",
+    "signer_id": null,
+    "download_url": null
+  },
+  {
+    "sample_id": "INCLUDE_Morning_train_MVI_5508",
+    "class_id": "MORNING",
+    "gloss": "Morning",
+    "category": "Days_and_Time",
+    "split": "train",
+    "video_path": "Days_and_Time/82. Morning/MVI_5508.MOV",
+    "signer_id": null,
+    "download_url": null
+  },
+  {
+    "sample_id": "INCLUDE_Today_train_MVI_5471",
+    "class_id": "TODAY",
+    "gloss": "Today",
+    "category": "Days_and_Time",
+    "split": "train",
+    "video_path": "Days_and_Time/73. Today/MVI_5471.MOV",
+    "signer_id": null,
+    "download_url": null
+  },
+  {
+    "sample_id": "INCLUDE_Bill_train_MVI_4268",
+    "class_id": "BILLING_PAYMENT",
+    "gloss": "Bill",
+    "category": "Society",
+    "split": "train",
+    "video_path": "Society/5. Bill/MVI_4268.MOV",
+    "signer_id": null,
+    "download_url": null
+  },
+  {
+    "sample_id": "INCLUDE_Hospital_train_MVI_3641",
+    "class_id": "HOSPITAL",
+    "gloss": "Hospital",
+    "category": "Places",
+    "split": "train",
+    "video_path": "Places/30. Hospital/MVI_3641.MOV",
+    "signer_id": null,
+    "download_url": null
+  },
+  {
+    "sample_id": "INCLUDE_Time_train_MVI_5525",
+    "class_id": "TIME_WHEN",
+    "gloss": "Time",
+    "category": "Days_and_Time",
+    "split": "train",
+    "video_path": "Days_and_Time/86. Time/MVI_5525.MOV",
+    "signer_id": null,
+    "download_url": null
+  },
+  {
+    "sample_id": "INCLUDE_Today_train_MVI_9160",
+    "class_id": "TODAY",
+    "gloss": "Today",
+    "category": "Days_and_Time",
+    "split": "train",
+    "video_path": "Days_and_Time/73. Today/MVI_9160.MOV",
+    "signer_id": null,
+    "download_url": null
+  },
+  {
+    "sample_id": "INCLUDE_Patient_train_MVI_8879",
+    "class_id": "PATIENT",
+    "gloss": "Patient",
+    "category": "Jobs",
+    "split": "train",
+    "video_path": "Jobs/88. Patient/MVI_8879.MOV",
+    "signer_id": null,
+    "download_url": null
+  },
+  {
+    "sample_id": "INCLUDE_Time_train_MVI_5079",
+    "class_id": "TIME_WHEN",
+    "gloss": "Time",
+    "category": "Days_and_Time",
+    "split": "train",
+    "video_path": "Days_and_Time/86. Time/MVI_5079.MOV",
+    "signer_id": null,
+    "download_url": null
+  },
+  {
+    "sample_id": "INCLUDE_you_train_MVI_9887",
+    "class_id": "PRONOUN_YOU",
+    "gloss": "you",
+    "category": "Pronouns",
+    "split": "train",
+    "video_path": "Pronouns/41. you/MVI_9887.MOV",
+    "signer_id": null,
+    "download_url": null
+  },
+  {
+    "sample_id": "INCLUDE_Morning_train_MVI_5510",
+    "class_id": "MORNING",
+    "gloss": "Morning",
+    "category": "Days_and_Time",
+    "split": "train",
+    "video_path": "Days_and_Time/82. Morning/MVI_5510.MOV",
+    "signer_id": null,
+    "download_url": null
+  },
+  {
+    "sample_id": "INCLUDE_Time_train_MVI_9203",
+    "class_id": "TIME_WHEN",
+    "gloss": "Time",
+    "category": "Days_and_Time",
+    "split": "train",
+    "video_path": "Days_and_Time/86. Time/MVI_9203.MOV",
+    "signer_id": null,
+    "download_url": null
+  },
+  {
+    "sample_id": "INCLUDE_Hello_train_MVI_9955",
+    "class_id": "GREETING_HELLO",
+    "gloss": "Hello",
+    "category": "Greetings",
+    "split": "train",
+    "video_path": "Greetings/48. Hello/MVI_9955.MOV",
+    "signer_id": null,
+    "download_url": null
+  },
+  {
+    "sample_id": "INCLUDE_Patient_train_MVI_4474",
+    "class_id": "PATIENT",
+    "gloss": "Patient",
+    "category": "Jobs",
+    "split": "train",
+    "video_path": "Jobs/88. Patient/MVI_4474.MOV",
+    "signer_id": null,
+    "download_url": null
+  },
+  {
+    "sample_id": "INCLUDE_Hello_train_MVI_9957",
+    "class_id": "GREETING_HELLO",
+    "gloss": "Hello",
+    "category": "Greetings",
+    "split": "train",
+    "video_path": "Greetings/48. Hello/MVI_9957.MOV",
+    "signer_id": null,
+    "download_url": null
+  },
+  {
+    "sample_id": "INCLUDE_Tomorrow_train_MVI_4619",
+    "class_id": "TOMORROW",
+    "gloss": "Tomorrow",
+    "category": "Days_and_Time",
+    "split": "train",
+    "video_path": "Days_and_Time/74. Tomorrow/MVI_4619.MOV",
+    "signer_id": null,
+    "download_url": null
+  },
+  {
+    "sample_id": "INCLUDE_Patient_train_MVI_5329",
+    "class_id": "PATIENT",
+    "gloss": "Patient",
+    "category": "Jobs",
+    "split": "train",
+    "video_path": "Jobs/88. Patient/MVI_5329.MOV",
+    "signer_id": null,
+    "download_url": null
+  },
+  {
+    "sample_id": "INCLUDE_sick_train_MVI_5251",
+    "class_id": "PAIN_SYMPTOM",
+    "gloss": "sick",
+    "category": "Adjectives",
+    "split": "train",
+    "video_path": "Adjectives/98. sick/MVI_5251.MOV",
+    "signer_id": null,
+    "download_url": null
+  },
+  {
+    "sample_id": "INCLUDE_Location_train_MVI_3587",
+    "class_id": "LOCATION_WHERE",
+    "gloss": "Location",
+    "category": "Places",
+    "split": "train",
+    "video_path": "Places/36. Location/MVI_3587.MOV",
+    "signer_id": null,
+    "download_url": null
+  },
+  {
+    "sample_id": "INCLUDE_Tomorrow_train_MVI_5474",
+    "class_id": "TOMORROW",
+    "gloss": "Tomorrow",
+    "category": "Days_and_Time",
+    "split": "train",
+    "video_path": "Days_and_Time/74. Tomorrow/MVI_5474.MOV",
+    "signer_id": null,
+    "download_url": null
+  },
+  {
+    "sample_id": "INCLUDE_Location_train_MVI_3429",
+    "class_id": "LOCATION_WHERE",
+    "gloss": "Location",
+    "category": "Places",
+    "split": "train",
+    "video_path": "Places/36. Location/Extra/MVI_3429.MOV",
+    "signer_id": null,
+    "download_url": null
+  },
+  {
+    "sample_id": "INCLUDE_I_train_MVI_9919",
+    "class_id": "PRONOUN_I",
+    "gloss": "I",
+    "category": "Pronouns",
+    "split": "train",
+    "video_path": "Pronouns/40. I/MVI_9919.MOV",
+    "signer_id": null,
+    "download_url": null
+  },
+  {
+    "sample_id": "INCLUDE_Hello_train_MVI_0030",
+    "class_id": "GREETING_HELLO",
+    "gloss": "Hello",
+    "category": "Greetings",
+    "split": "train",
+    "video_path": "Greetings/48. Hello/MVI_0030.MOV",
+    "signer_id": null,
+    "download_url": null
+  },
+  {
+    "sample_id": "INCLUDE_Today_train_MVI_5032",
+    "class_id": "TODAY",
+    "gloss": "Today",
+    "category": "Days_and_Time",
+    "split": "train",
+    "video_path": "Days_and_Time/73. Today/MVI_5032.MOV",
+    "signer_id": null,
+    "download_url": null
+  },
+  {
+    "sample_id": "INCLUDE_Hospital_train_MVI_3399",
+    "class_id": "HOSPITAL",
+    "gloss": "Hospital",
+    "category": "Places",
+    "split": "train",
+    "video_path": "Places/30. Hospital/MVI_3399.MOV",
+    "signer_id": null,
+    "download_url": null
+  },
+  {
+    "sample_id": "INCLUDE_Time_train_MVI_5077",
+    "class_id": "TIME_WHEN",
+    "gloss": "Time",
+    "category": "Days_and_Time",
+    "split": "train",
+    "video_path": "Days_and_Time/86. Time/MVI_5077.MOV",
+    "signer_id": null,
+    "download_url": null
+  },
+  {
+    "sample_id": "INCLUDE_Hospital_train_MVI_3562",
+    "class_id": "HOSPITAL",
+    "gloss": "Hospital",
+    "category": "Places",
+    "split": "train",
+    "video_path": "Places/30. Hospital/MVI_3562.MOV",
+    "signer_id": null,
+    "download_url": null
+  },
+  {
+    "sample_id": "INCLUDE_I_train_MVI_0064",
+    "class_id": "PRONOUN_I",
+    "gloss": "I",
+    "category": "Pronouns",
+    "split": "train",
+    "video_path": "Pronouns/40. I/MVI_0064.MOV",
+    "signer_id": null,
+    "download_url": null
+  },
+  {
+    "sample_id": "INCLUDE_I_train_MVI_9995",
+    "class_id": "PRONOUN_I",
+    "gloss": "I",
+    "category": "Pronouns",
+    "split": "train",
+    "video_path": "Pronouns/40. I/MVI_9995.MOV",
+    "signer_id": null,
+    "download_url": null
+  },
+  {
+    "sample_id": "INCLUDE_Today_train_MVI_9162",
+    "class_id": "TODAY",
+    "gloss": "Today",
+    "category": "Days_and_Time",
+    "split": "train",
+    "video_path": "Days_and_Time/73. Today/MVI_9162.MOV",
+    "signer_id": null,
+    "download_url": null
+  },
+  {
+    "sample_id": "INCLUDE_Morning_train_MVI_5060",
+    "class_id": "MORNING",
+    "gloss": "Morning",
+    "category": "Days_and_Time",
+    "split": "train",
+    "video_path": "Days_and_Time/82. Morning/MVI_5060.MOV",
+    "signer_id": null,
+    "download_url": null
+  },
+  {
+    "sample_id": "INCLUDE_Today_train_MVI_4615",
+    "class_id": "TODAY",
+    "gloss": "Today",
+    "category": "Days_and_Time",
+    "split": "train",
+    "video_path": "Days_and_Time/73. Today/MVI_4615.MOV",
+    "signer_id": null,
+    "download_url": null
+  },
+  {
+    "sample_id": "INCLUDE_you_train_MVI_9961",
+    "class_id": "PRONOUN_YOU",
+    "gloss": "you",
+    "category": "Pronouns",
+    "split": "train",
+    "video_path": "Pronouns/41. you/MVI_9961.MOV",
+    "signer_id": null,
+    "download_url": null
+  },
+  {
+    "sample_id": "INCLUDE_Doctor_train_MVI_4755",
+    "class_id": "DOCTOR",
+    "gloss": "Doctor",
+    "category": "Jobs",
+    "split": "train",
+    "video_path": "Jobs/87. Doctor/MVI_4755.MOV",
+    "signer_id": null,
+    "download_url": null
+  },
+  {
+    "sample_id": "INCLUDE_Tomorrow_train_MVI_4620",
+    "class_id": "TOMORROW",
+    "gloss": "Tomorrow",
+    "category": "Days_and_Time",
+    "split": "train",
+    "video_path": "Days_and_Time/74. Tomorrow/MVI_4620.MOV",
+    "signer_id": null,
+    "download_url": null
+  },
+  {
+    "sample_id": "INCLUDE_Hello_train_MVI_9916",
+    "class_id": "GREETING_HELLO",
+    "gloss": "Hello",
+    "category": "Greetings",
+    "split": "train",
+    "video_path": "Greetings/48. Hello/MVI_9916.MOV",
+    "signer_id": null,
+    "download_url": null
+  },
+  {
+    "sample_id": "INCLUDE_I_train_MVI_0012",
+    "class_id": "PRONOUN_I",
+    "gloss": "I",
+    "category": "Pronouns",
+    "split": "train",
+    "video_path": "Pronouns/40. I/MVI_0012.MOV",
+    "signer_id": null,
+    "download_url": null
+  },
+  {
+    "sample_id": "INCLUDE_Morning_train_MVI_5061",
+    "class_id": "MORNING",
+    "gloss": "Morning",
+    "category": "Days_and_Time",
+    "split": "train",
+    "video_path": "Days_and_Time/82. Morning/MVI_5061.MOV",
+    "signer_id": null,
+    "download_url": null
+  },
+  {
+    "sample_id": "INCLUDE_Tomorrow_train_MVI_5034",
+    "class_id": "TOMORROW",
+    "gloss": "Tomorrow",
+    "category": "Days_and_Time",
+    "split": "train",
+    "video_path": "Days_and_Time/74. Tomorrow/MVI_5034.MOV",
+    "signer_id": null,
+    "download_url": null
+  },
+  {
+    "sample_id": "INCLUDE_Medicine_train_MVI_4259",
+    "class_id": "PHARMACY_MEDICINE",
+    "gloss": "Medicine",
+    "category": "Society",
+    "split": "train",
+    "video_path": "Society/3. Medicine/MVI_4259.MOV",
+    "signer_id": null,
+    "download_url": null
+  },
+  {
+    "sample_id": "INCLUDE_I_train_MVI_0003",
+    "class_id": "PRONOUN_I",
+    "gloss": "I",
+    "category": "Pronouns",
+    "split": "train",
+    "video_path": "Pronouns/40. I/MVI_0003.MOV",
+    "signer_id": null,
+    "download_url": null
+  },
+  {
+    "sample_id": "INCLUDE_Patient_train_MVI_4760",
+    "class_id": "PATIENT",
+    "gloss": "Patient",
+    "category": "Jobs",
+    "split": "train",
+    "video_path": "Jobs/88. Patient/MVI_4760.MOV",
+    "signer_id": null,
+    "download_url": null
+  },
+  {
+    "sample_id": "INCLUDE_Tomorrow_train_MVI_9163",
+    "class_id": "TOMORROW",
+    "gloss": "Tomorrow",
+    "category": "Days_and_Time",
+    "split": "train",
+    "video_path": "Days_and_Time/74. Tomorrow/MVI_9163.MOV",
+    "signer_id": null,
+    "download_url": null
+  },
+  {
+    "sample_id": "INCLUDE_I_train_MVI_9918",
+    "class_id": "PRONOUN_I",
+    "gloss": "I",
+    "category": "Pronouns",
+    "split": "train",
+    "video_path": "Pronouns/40. I/MVI_9918.MOV",
+    "signer_id": null,
+    "download_url": null
+  },
+  {
+    "sample_id": "INCLUDE_Medicine_train_MVI_8933",
+    "class_id": "PHARMACY_MEDICINE",
+    "gloss": "Medicine",
+    "category": "Society",
+    "split": "train",
+    "video_path": "Society/3. Medicine/MVI_8933.MOV",
+    "signer_id": null,
+    "download_url": null
+  },
+  {
+    "sample_id": "INCLUDE_Doctor_train_MVI_4472",
+    "class_id": "DOCTOR",
+    "gloss": "Doctor",
+    "category": "Jobs",
+    "split": "train",
+    "video_path": "Jobs/87. Doctor/MVI_4472.MOV",
+    "signer_id": null,
+    "download_url": null
+  },
+  {
+    "sample_id": "INCLUDE_sick_train_MVI_9443",
+    "class_id": "PAIN_SYMPTOM",
+    "gloss": "sick",
+    "category": "Adjectives",
+    "split": "train",
+    "video_path": "Adjectives/98. sick/MVI_9443.MOV",
+    "signer_id": null,
+    "download_url": null
+  },
+  {
+    "sample_id": "INCLUDE_Bill_train_MVI_4269",
+    "class_id": "BILLING_PAYMENT",
+    "gloss": "Bill",
+    "category": "Society",
+    "split": "train",
+    "video_path": "Society/5. Bill/MVI_4269.MOV",
+    "signer_id": null,
+    "download_url": null
+  },
+  {
+    "sample_id": "INCLUDE_Medicine_train_MVI_8668",
+    "class_id": "PHARMACY_MEDICINE",
+    "gloss": "Medicine",
+    "category": "Society",
+    "split": "train",
+    "video_path": "Society/3. Medicine/MVI_8668.MOV",
+    "signer_id": null,
+    "download_url": null
+  },
+  {
+    "sample_id": "INCLUDE_Afternoon_train_MVI_5512",
+    "class_id": "AFTERNOON",
+    "gloss": "Afternoon",
+    "category": "Days_and_Time",
+    "split": "train",
+    "video_path": "Days_and_Time/83. Afternoon/MVI_5512.MOV",
+    "signer_id": null,
+    "download_url": null
+  },
+  {
+    "sample_id": "INCLUDE_Bill_train_MVI_4270",
+    "class_id": "BILLING_PAYMENT",
+    "gloss": "Bill",
+    "category": "Society",
+    "split": "train",
+    "video_path": "Society/5. Bill/MVI_4270.MOV",
+    "signer_id": null,
+    "download_url": null
+  },
+  {
+    "sample_id": "INCLUDE_sick_train_MVI_9280",
+    "class_id": "PAIN_SYMPTOM",
+    "gloss": "sick",
+    "category": "Adjectives",
+    "split": "train",
+    "video_path": "Adjectives/98. sick/MVI_9280.MOV",
+    "signer_id": null,
+    "download_url": null
+  },
+  {
+    "sample_id": "INCLUDE_Location_train_MVI_3585",
+    "class_id": "LOCATION_WHERE",
+    "gloss": "Location",
+    "category": "Places",
+    "split": "train",
+    "video_path": "Places/36. Location/MVI_3585.MOV",
+    "signer_id": null,
+    "download_url": null
+  },
+  {
+    "sample_id": "INCLUDE_Time_train_MVI_4670",
+    "class_id": "TIME_WHEN",
+    "gloss": "Time",
+    "category": "Days_and_Time",
+    "split": "train",
+    "video_path": "Days_and_Time/86. Time/MVI_4670.MOV",
+    "signer_id": null,
+    "download_url": null
+  },
+  {
+    "sample_id": "INCLUDE_Afternoon_train_MVI_4657",
+    "class_id": "AFTERNOON",
+    "gloss": "Afternoon",
+    "category": "Days_and_Time",
+    "split": "train",
+    "video_path": "Days_and_Time/83. Afternoon/MVI_4657.MOV",
+    "signer_id": null,
+    "download_url": null
+  },
+  {
+    "sample_id": "INCLUDE_Medicine_train_MVI_4804",
+    "class_id": "PHARMACY_MEDICINE",
+    "gloss": "Medicine",
+    "category": "Society",
+    "split": "train",
+    "video_path": "Society/3. Medicine/MVI_4804.MOV",
+    "signer_id": null,
+    "download_url": null
+  },
+  {
+    "sample_id": "INCLUDE_Hello_train_MVI_9917",
+    "class_id": "GREETING_HELLO",
+    "gloss": "Hello",
+    "category": "Greetings",
+    "split": "train",
+    "video_path": "Greetings/48. Hello/MVI_9917.MOV",
+    "signer_id": null,
+    "download_url": null
+  },
+  {
+    "sample_id": "INCLUDE_Patient_train_MVI_5327",
+    "class_id": "PATIENT",
+    "gloss": "Patient",
+    "category": "Jobs",
+    "split": "train",
+    "video_path": "Jobs/88. Patient/MVI_5327.MOV",
+    "signer_id": null,
+    "download_url": null
+  },
+  {
+    "sample_id": "INCLUDE_Bill_train_MVI_8675",
+    "class_id": "BILLING_PAYMENT",
+    "gloss": "Bill",
+    "category": "Society",
+    "split": "train",
+    "video_path": "Society/5. Bill/MVI_8675.MOV",
+    "signer_id": null,
+    "download_url": null
+  },
+  {
+    "sample_id": "INCLUDE_Afternoon_train_MVI_5065",
+    "class_id": "AFTERNOON",
+    "gloss": "Afternoon",
+    "category": "Days_and_Time",
+    "split": "train",
+    "video_path": "Days_and_Time/83. Afternoon/MVI_5065.MOV",
+    "signer_id": null,
+    "download_url": null
+  },
+  {
+    "sample_id": "INCLUDE_Morning_train_MVI_5062",
+    "class_id": "MORNING",
+    "gloss": "Morning",
+    "category": "Days_and_Time",
+    "split": "train",
+    "video_path": "Days_and_Time/82. Morning/MVI_5062.MOV",
+    "signer_id": null,
+    "download_url": null
+  },
+  {
+    "sample_id": "INCLUDE_Time_train_MVI_5524",
+    "class_id": "TIME_WHEN",
+    "gloss": "Time",
+    "category": "Days_and_Time",
+    "split": "train",
+    "video_path": "Days_and_Time/86. Time/MVI_5524.MOV",
+    "signer_id": null,
+    "download_url": null
+  },
+  {
+    "sample_id": "INCLUDE_Tomorrow_train_MVI_9165",
+    "class_id": "TOMORROW",
+    "gloss": "Tomorrow",
+    "category": "Days_and_Time",
+    "split": "train",
+    "video_path": "Days_and_Time/74. Tomorrow/MVI_9165.MOV",
+    "signer_id": null,
+    "download_url": null
+  },
+  {
+    "sample_id": "INCLUDE_Hospital_train_MVI_3400",
+    "class_id": "HOSPITAL",
+    "gloss": "Hospital",
+    "category": "Places",
+    "split": "train",
+    "video_path": "Places/30. Hospital/MVI_3400.MOV",
+    "signer_id": null,
+    "download_url": null
+  },
+  {
+    "sample_id": "INCLUDE_Bill_train_MVI_8673",
+    "class_id": "BILLING_PAYMENT",
+    "gloss": "Bill",
+    "category": "Society",
+    "split": "train",
+    "video_path": "Society/5. Bill/MVI_8673.MOV",
+    "signer_id": null,
+    "download_url": null
+  },
+  {
+    "sample_id": "INCLUDE_sick_train_MVI_9362",
+    "class_id": "PAIN_SYMPTOM",
+    "gloss": "sick",
+    "category": "Adjectives",
+    "split": "train",
+    "video_path": "Adjectives/98. sick/MVI_9362.MOV",
+    "signer_id": null,
+    "download_url": null
+  },
+  {
+    "sample_id": "INCLUDE_Morning_train_MVI_4654",
+    "class_id": "MORNING",
+    "gloss": "Morning",
+    "category": "Days_and_Time",
+    "split": "train",
+    "video_path": "Days_and_Time/82. Morning/MVI_4654.MOV",
+    "signer_id": null,
+    "download_url": null
+  },
+  {
+    "sample_id": "INCLUDE_Location_train_MVI_3671",
+    "class_id": "LOCATION_WHERE",
+    "gloss": "Location",
+    "category": "Places",
+    "split": "train",
+    "video_path": "Places/36. Location/MVI_3671.MOV",
+    "signer_id": null,
+    "download_url": null
+  },
+  {
+    "sample_id": "INCLUDE_Bill_train_MVI_8941",
+    "class_id": "BILLING_PAYMENT",
+    "gloss": "Bill",
+    "category": "Society",
+    "split": "train",
+    "video_path": "Society/5. Bill/MVI_8941.MOV",
+    "signer_id": null,
+    "download_url": null
+  },
+  {
+    "sample_id": "INCLUDE_Doctor_train_MVI_8876",
+    "class_id": "DOCTOR",
+    "gloss": "Doctor",
+    "category": "Jobs",
+    "split": "train",
+    "video_path": "Jobs/87. Doctor/MVI_8876.MOV",
+    "signer_id": null,
+    "download_url": null
+  },
+  {
+    "sample_id": "INCLUDE_Today_train_MVI_5473",
+    "class_id": "TODAY",
+    "gloss": "Today",
+    "category": "Days_and_Time",
+    "split": "train",
+    "video_path": "Days_and_Time/73. Today/MVI_5473.MOV",
+    "signer_id": null,
+    "download_url": null
+  },
+  {
+    "sample_id": "INCLUDE_Hello_train_MVI_9954",
+    "class_id": "GREETING_HELLO",
+    "gloss": "Hello",
+    "category": "Greetings",
+    "split": "train",
+    "video_path": "Greetings/48. Hello/MVI_9954.MOV",
+    "signer_id": null,
+    "download_url": null
+  },
+  {
+    "sample_id": "INCLUDE_I_train_MVI_9922",
+    "class_id": "PRONOUN_I",
+    "gloss": "I",
+    "category": "Pronouns",
+    "split": "train",
+    "video_path": "Pronouns/40. I/MVI_9922.MOV",
+    "signer_id": null,
+    "download_url": null
+  },
+  {
+    "sample_id": "INCLUDE_Afternoon_train_MVI_5063",
+    "class_id": "AFTERNOON",
+    "gloss": "Afternoon",
+    "category": "Days_and_Time",
+    "split": "train",
+    "video_path": "Days_and_Time/83. Afternoon/MVI_5063.MOV",
+    "signer_id": null,
+    "download_url": null
+  },
+  {
+    "sample_id": "INCLUDE_Location_train_MVI_3504",
+    "class_id": "LOCATION_WHERE",
+    "gloss": "Location",
+    "category": "Places",
+    "split": "train",
+    "video_path": "Places/36. Location/MVI_3504.MOV",
+    "signer_id": null,
+    "download_url": null
+  },
+  {
+    "sample_id": "INCLUDE_Tomorrow_train_MVI_5036",
+    "class_id": "TOMORROW",
+    "gloss": "Tomorrow",
+    "category": "Days_and_Time",
+    "split": "train",
+    "video_path": "Days_and_Time/74. Tomorrow/MVI_5036.MOV",
+    "signer_id": null,
+    "download_url": null
+  },
+  {
+    "sample_id": "INCLUDE_Hello_train_MVI_9915",
+    "class_id": "GREETING_HELLO",
+    "gloss": "Hello",
+    "category": "Greetings",
+    "split": "train",
+    "video_path": "Greetings/48. Hello/MVI_9915.MOV",
+    "signer_id": null,
+    "download_url": null
+  },
+  {
+    "sample_id": "INCLUDE_Hospital_train_MVI_3318",
+    "class_id": "HOSPITAL",
+    "gloss": "Hospital",
+    "category": "Places",
+    "split": "train",
+    "video_path": "Places/30. Hospital/MVI_3318.MOV",
+    "signer_id": null,
+    "download_url": null
+  },
+  {
+    "sample_id": "INCLUDE_Today_train_MVI_5472",
+    "class_id": "TODAY",
+    "gloss": "Today",
+    "category": "Days_and_Time",
+    "split": "train",
+    "video_path": "Days_and_Time/73. Today/MVI_5472.MOV",
+    "signer_id": null,
+    "download_url": null
+  },
+  {
+    "sample_id": "INCLUDE_Hello_train_MVI_0090",
+    "class_id": "GREETING_HELLO",
+    "gloss": "Hello",
+    "category": "Greetings",
+    "split": "train",
+    "video_path": "Greetings/48. Hello/MVI_0090.MOV",
+    "signer_id": null,
+    "download_url": null
+  },
+  {
+    "sample_id": "INCLUDE_I_train_MVI_9959",
+    "class_id": "PRONOUN_I",
+    "gloss": "I",
+    "category": "Pronouns",
+    "split": "train",
+    "video_path": "Pronouns/40. I/MVI_9959.MOV",
+    "signer_id": null,
+    "download_url": null
+  },
+  {
+    "sample_id": "INCLUDE_Doctor_train_MVI_5324",
+    "class_id": "DOCTOR",
+    "gloss": "Doctor",
+    "category": "Jobs",
+    "split": "train",
+    "video_path": "Jobs/87. Doctor/MVI_5324.MOV",
+    "signer_id": null,
+    "download_url": null
+  },
+  {
+    "sample_id": "INCLUDE_you_train_MVI_0067",
+    "class_id": "PRONOUN_YOU",
+    "gloss": "you",
+    "category": "Pronouns",
+    "split": "train",
+    "video_path": "Pronouns/41. you/MVI_0067.MOV",
+    "signer_id": null,
+    "download_url": null
+  },
+  {
+    "sample_id": "INCLUDE_Hello_train_MVI_0032",
+    "class_id": "GREETING_HELLO",
+    "gloss": "Hello",
+    "category": "Greetings",
+    "split": "train",
+    "video_path": "Greetings/48. Hello/MVI_0032.MOV",
+    "signer_id": null,
+    "download_url": null
+  },
+  {
+    "sample_id": "INCLUDE_Tomorrow_train_MVI_5035",
+    "class_id": "TOMORROW",
+    "gloss": "Tomorrow",
+    "category": "Days_and_Time",
+    "split": "train",
+    "video_path": "Days_and_Time/74. Tomorrow/MVI_5035.MOV",
+    "signer_id": null,
+    "download_url": null
+  },
+  {
+    "sample_id": "INCLUDE_Today_train_MVI_5470",
+    "class_id": "TODAY",
+    "gloss": "Today",
+    "category": "Days_and_Time",
+    "split": "train",
+    "video_path": "Days_and_Time/73. Today/MVI_5470.MOV",
+    "signer_id": null,
+    "download_url": null
+  },
+  {
+    "sample_id": "INCLUDE_Bill_train_MVI_8940",
+    "class_id": "BILLING_PAYMENT",
+    "gloss": "Bill",
+    "category": "Society",
+    "split": "train",
+    "video_path": "Society/5. Bill/MVI_8940.MOV",
+    "signer_id": null,
+    "download_url": null
+  },
+  {
+    "sample_id": "INCLUDE_Location_train_MVI_3673",
+    "class_id": "LOCATION_WHERE",
+    "gloss": "Location",
+    "category": "Places",
+    "split": "train",
+    "video_path": "Places/36. Location/MVI_3673.MOV",
+    "signer_id": null,
+    "download_url": null
+  },
+  {
+    "sample_id": "INCLUDE_I_train_MVI_9878",
+    "class_id": "PRONOUN_I",
+    "gloss": "I",
+    "category": "Pronouns",
+    "split": "train",
+    "video_path": "Pronouns/40. I/MVI_9878.MOV",
+    "signer_id": null,
+    "download_url": null
+  },
+  {
+    "sample_id": "INCLUDE_Time_train_MVI_5527",
+    "class_id": "TIME_WHEN",
+    "gloss": "Time",
+    "category": "Days_and_Time",
+    "split": "train",
+    "video_path": "Days_and_Time/86. Time/MVI_5527.MOV",
+    "signer_id": null,
+    "download_url": null
+  },
+  {
+    "sample_id": "INCLUDE_Time_train_MVI_9201",
+    "class_id": "TIME_WHEN",
+    "gloss": "Time",
+    "category": "Days_and_Time",
+    "split": "train",
+    "video_path": "Days_and_Time/86. Time/MVI_9201.MOV",
+    "signer_id": null,
+    "download_url": null
+  },
+  {
+    "sample_id": "INCLUDE_Hospital_train_MVI_3398",
+    "class_id": "HOSPITAL",
+    "gloss": "Hospital",
+    "category": "Places",
+    "split": "train",
+    "video_path": "Places/30. Hospital/MVI_3398.MOV",
+    "signer_id": null,
+    "download_url": null
+  },
+  {
+    "sample_id": "INCLUDE_you_train_MVI_9998",
+    "class_id": "PRONOUN_YOU",
+    "gloss": "you",
+    "category": "Pronouns",
+    "split": "train",
+    "video_path": "Pronouns/41. you/MVI_9998.MOV",
+    "signer_id": null,
+    "download_url": null
+  },
+  {
+    "sample_id": "INCLUDE_I_train_MVI_0014",
+    "class_id": "PRONOUN_I",
+    "gloss": "I",
+    "category": "Pronouns",
+    "split": "train",
+    "video_path": "Pronouns/40. I/MVI_0014.MOV",
+    "signer_id": null,
+    "download_url": null
+  },
+  {
+    "sample_id": "INCLUDE_Hospital_train_MVI_3561",
+    "class_id": "HOSPITAL",
+    "gloss": "Hospital",
+    "category": "Places",
+    "split": "train",
+    "video_path": "Places/30. Hospital/MVI_3561.MOV",
+    "signer_id": null,
+    "download_url": null
+  },
+  {
+    "sample_id": "INCLUDE_Doctor_train_MVI_5322",
+    "class_id": "DOCTOR",
+    "gloss": "Doctor",
+    "category": "Jobs",
+    "split": "train",
+    "video_path": "Jobs/87. Doctor/MVI_5322.MOV",
+    "signer_id": null,
+    "download_url": null
+  },
+  {
+    "sample_id": "INCLUDE_sick_train_MVI_9529",
+    "class_id": "PAIN_SYMPTOM",
+    "gloss": "sick",
+    "category": "Adjectives",
+    "split": "train",
+    "video_path": "Adjectives/98. sick/MVI_9529.MOV",
+    "signer_id": null,
+    "download_url": null
+  },
+  {
+    "sample_id": "INCLUDE_Location_train_MVI_3426",
+    "class_id": "LOCATION_WHERE",
+    "gloss": "Location",
+    "category": "Places",
+    "split": "train",
+    "video_path": "Places/36. Location/MVI_3426.MOV",
+    "signer_id": null,
+    "download_url": null
+  },
+  {
+    "sample_id": "INCLUDE_Morning_train_MVI_9189",
+    "class_id": "MORNING",
+    "gloss": "Morning",
+    "category": "Days_and_Time",
+    "split": "train",
+    "video_path": "Days_and_Time/82. Morning/MVI_9189.MOV",
+    "signer_id": null,
+    "download_url": null
+  },
+  {
+    "sample_id": "INCLUDE_you_train_MVI_0069",
+    "class_id": "PRONOUN_YOU",
+    "gloss": "you",
+    "category": "Pronouns",
+    "split": "train",
+    "video_path": "Pronouns/41. you/MVI_0069.MOV",
+    "signer_id": null,
+    "download_url": null
+  },
+  {
+    "sample_id": "INCLUDE_Medicine_train_MVI_4262",
+    "class_id": "PHARMACY_MEDICINE",
+    "gloss": "Medicine",
+    "category": "Society",
+    "split": "train",
+    "video_path": "Society/3. Medicine/MVI_4262.MOV",
+    "signer_id": null,
+    "download_url": null
+  },
+  {
+    "sample_id": "INCLUDE_you_train_MVI_9996",
+    "class_id": "PRONOUN_YOU",
+    "gloss": "you",
+    "category": "Pronouns",
+    "split": "train",
+    "video_path": "Pronouns/41. you/MVI_9996.MOV",
+    "signer_id": null,
+    "download_url": null
+  },
+  {
+    "sample_id": "INCLUDE_Hello_train_MVI_0091",
+    "class_id": "GREETING_HELLO",
+    "gloss": "Hello",
+    "category": "Greetings",
+    "split": "train",
+    "video_path": "Greetings/48. Hello/MVI_0091.MOV",
+    "signer_id": null,
+    "download_url": null
+  },
+  {
+    "sample_id": "INCLUDE_sick_train_MVI_9363",
+    "class_id": "PAIN_SYMPTOM",
+    "gloss": "sick",
+    "category": "Adjectives",
+    "split": "train",
+    "video_path": "Adjectives/98. sick/MVI_9363.MOV",
+    "signer_id": null,
+    "download_url": null
+  },
+  {
+    "sample_id": "INCLUDE_Tomorrow_train_MVI_5476",
+    "class_id": "TOMORROW",
+    "gloss": "Tomorrow",
+    "category": "Days_and_Time",
+    "split": "train",
+    "video_path": "Days_and_Time/74. Tomorrow/MVI_5476.MOV",
+    "signer_id": null,
+    "download_url": null
+  },
+  {
+    "sample_id": "INCLUDE_Location_train_MVI_3425",
+    "class_id": "LOCATION_WHERE",
+    "gloss": "Location",
+    "category": "Places",
+    "split": "train",
+    "video_path": "Places/36. Location/MVI_3425.MOV",
+    "signer_id": null,
+    "download_url": null
+  },
+  {
+    "sample_id": "INCLUDE_Afternoon_train_MVI_4655",
+    "class_id": "AFTERNOON",
+    "gloss": "Afternoon",
+    "category": "Days_and_Time",
+    "split": "train",
+    "video_path": "Days_and_Time/83. Afternoon/MVI_4655.MOV",
+    "signer_id": null,
+    "download_url": null
+  },
+  {
+    "sample_id": "INCLUDE_Tomorrow_train_MVI_4621",
+    "class_id": "TOMORROW",
+    "gloss": "Tomorrow",
+    "category": "Days_and_Time",
+    "split": "train",
+    "video_path": "Days_and_Time/74. Tomorrow/MVI_4621.MOV",
+    "signer_id": null,
+    "download_url": null
+  },
+  {
+    "sample_id": "INCLUDE_sick_train_MVI_5331",
+    "class_id": "PAIN_SYMPTOM",
+    "gloss": "sick",
+    "category": "Adjectives",
+    "split": "train",
+    "video_path": "Adjectives/98. sick/MVI_5331.MOV",
+    "signer_id": null,
+    "download_url": null
+  },
+  {
+    "sample_id": "INCLUDE_Tomorrow_train_MVI_4622",
+    "class_id": "TOMORROW",
+    "gloss": "Tomorrow",
+    "category": "Days_and_Time",
+    "split": "train",
+    "video_path": "Days_and_Time/74. Tomorrow/MVI_4622.MOV",
+    "signer_id": null,
+    "download_url": null
+  },
+  {
+    "sample_id": "INCLUDE_Location_train_MVI_3344",
+    "class_id": "LOCATION_WHERE",
+    "gloss": "Location",
+    "category": "Places",
+    "split": "train",
+    "video_path": "Places/36. Location/MVI_3344.MOV",
+    "signer_id": null,
+    "download_url": null
+  },
+  {
+    "sample_id": "INCLUDE_Afternoon_train_MVI_9193",
+    "class_id": "AFTERNOON",
+    "gloss": "Afternoon",
+    "category": "Days_and_Time",
+    "split": "train",
+    "video_path": "Days_and_Time/83. Afternoon/MVI_9193.MOV",
+    "signer_id": null,
+    "download_url": null
+  },
+  {
+    "sample_id": "INCLUDE_Medicine_train_MVI_4260",
+    "class_id": "PHARMACY_MEDICINE",
+    "gloss": "Medicine",
+    "category": "Society",
+    "split": "train",
+    "video_path": "Society/3. Medicine/MVI_4260.MOV",
+    "signer_id": null,
+    "download_url": null
+  },
+  {
+    "sample_id": "INCLUDE_Afternoon_train_MVI_5064",
+    "class_id": "AFTERNOON",
+    "gloss": "Afternoon",
+    "category": "Days_and_Time",
+    "split": "train",
+    "video_path": "Days_and_Time/83. Afternoon/MVI_5064.MOV",
+    "signer_id": null,
+    "download_url": null
+  },
+  {
+    "sample_id": "INCLUDE_Bill_train_MVI_8939",
+    "class_id": "BILLING_PAYMENT",
+    "gloss": "Bill",
+    "category": "Society",
+    "split": "train",
+    "video_path": "Society/5. Bill/MVI_8939.MOV",
+    "signer_id": null,
+    "download_url": null
+  },
+  {
+    "sample_id": "INCLUDE_Today_train_MVI_4618",
+    "class_id": "TODAY",
+    "gloss": "Today",
+    "category": "Days_and_Time",
+    "split": "train",
+    "video_path": "Days_and_Time/73. Today/MVI_4618.MOV",
+    "signer_id": null,
+    "download_url": null
+  },
+  {
+    "sample_id": "INCLUDE_Doctor_train_MVI_4473",
+    "class_id": "DOCTOR",
+    "gloss": "Doctor",
+    "category": "Jobs",
+    "split": "train",
+    "video_path": "Jobs/87. Doctor/MVI_4473.MOV",
+    "signer_id": null,
+    "download_url": null
+  },
+  {
+    "sample_id": "INCLUDE_Hospital_train_MVI_3317",
+    "class_id": "HOSPITAL",
+    "gloss": "Hospital",
+    "category": "Places",
+    "split": "train",
+    "video_path": "Places/30. Hospital/MVI_3317.MOV",
+    "signer_id": null,
+    "download_url": null
+  },
+  {
+    "sample_id": "INCLUDE_Hospital_train_MVI_3315",
+    "class_id": "HOSPITAL",
+    "gloss": "Hospital",
+    "category": "Places",
+    "split": "train",
+    "video_path": "Places/30. Hospital/MVI_3315.MOV",
+    "signer_id": null,
+    "download_url": null
+  },
+  {
+    "sample_id": "INCLUDE_Time_train_MVI_4669",
+    "class_id": "TIME_WHEN",
+    "gloss": "Time",
+    "category": "Days_and_Time",
+    "split": "train",
+    "video_path": "Days_and_Time/86. Time/MVI_4669.MOV",
+    "signer_id": null,
+    "download_url": null
+  },
+  {
+    "sample_id": "INCLUDE_I_train_MVI_9881",
+    "class_id": "PRONOUN_I",
+    "gloss": "I",
+    "category": "Pronouns",
+    "split": "train",
+    "video_path": "Pronouns/40. I/MVI_9881.MOV",
+    "signer_id": null,
+    "download_url": null
+  },
+  {
+    "sample_id": "INCLUDE_I_train_MVI_9879",
+    "class_id": "PRONOUN_I",
+    "gloss": "I",
+    "category": "Pronouns",
+    "split": "train",
+    "video_path": "Pronouns/40. I/MVI_9879.MOV",
+    "signer_id": null,
+    "download_url": null
+  },
+  {
+    "sample_id": "INCLUDE_Bill_train_MVI_4267",
+    "class_id": "BILLING_PAYMENT",
+    "gloss": "Bill",
+    "category": "Society",
+    "split": "train",
+    "video_path": "Society/5. Bill/MVI_4267.MOV",
+    "signer_id": null,
+    "download_url": null
+  },
+  {
+    "sample_id": "INCLUDE_Afternoon_train_MVI_5513",
+    "class_id": "AFTERNOON",
+    "gloss": "Afternoon",
+    "category": "Days_and_Time",
+    "split": "train",
+    "video_path": "Days_and_Time/83. Afternoon/MVI_5513.MOV",
+    "signer_id": null,
+    "download_url": null
+  },
+  {
+    "sample_id": "INCLUDE_Doctor_train_MVI_5325",
+    "class_id": "DOCTOR",
+    "gloss": "Doctor",
+    "category": "Jobs",
+    "split": "train",
+    "video_path": "Jobs/87. Doctor/MVI_5325.MOV",
+    "signer_id": null,
+    "download_url": null
+  },
+  {
+    "sample_id": "INCLUDE_Patient_train_MVI_4476",
+    "class_id": "PATIENT",
+    "gloss": "Patient",
+    "category": "Jobs",
+    "split": "train",
+    "video_path": "Jobs/88. Patient/MVI_4476.MOV",
+    "signer_id": null,
+    "download_url": null
+  },
+  {
+    "sample_id": "INCLUDE_Doctor_val_MVI_4754",
+    "class_id": "DOCTOR",
+    "gloss": "Doctor",
+    "category": "Jobs",
+    "split": "val",
+    "video_path": "Jobs/87. Doctor/MVI_4754.MOV",
+    "signer_id": null,
+    "download_url": null
+  },
+  {
+    "sample_id": "INCLUDE_you_val_MVI_9925",
+    "class_id": "PRONOUN_YOU",
+    "gloss": "you",
+    "category": "Pronouns",
+    "split": "val",
+    "video_path": "Pronouns/41. you/MVI_9925.MOV",
+    "signer_id": null,
+    "download_url": null
+  },
+  {
+    "sample_id": "INCLUDE_you_val_MVI_0068",
+    "class_id": "PRONOUN_YOU",
+    "gloss": "you",
+    "category": "Pronouns",
+    "split": "val",
+    "video_path": "Pronouns/41. you/MVI_0068.MOV",
+    "signer_id": null,
+    "download_url": null
+  },
+  {
+    "sample_id": "INCLUDE_Time_val_MVI_9204",
+    "class_id": "TIME_WHEN",
+    "gloss": "Time",
+    "category": "Days_and_Time",
+    "split": "val",
+    "video_path": "Days_and_Time/86. Time/MVI_9204.MOV",
+    "signer_id": null,
+    "download_url": null
+  },
+  {
+    "sample_id": "INCLUDE_Hello_val_MVI_0039",
+    "class_id": "GREETING_HELLO",
+    "gloss": "Hello",
+    "category": "Greetings",
+    "split": "val",
+    "video_path": "Greetings/48. Hello/MVI_0039.MOV",
+    "signer_id": null,
+    "download_url": null
+  },
+  {
+    "sample_id": "INCLUDE_Hospital_val_MVI_3563",
+    "class_id": "HOSPITAL",
+    "gloss": "Hospital",
+    "category": "Places",
+    "split": "val",
+    "video_path": "Places/30. Hospital/MVI_3563.MOV",
+    "signer_id": null,
+    "download_url": null
+  },
+  {
+    "sample_id": "INCLUDE_Afternoon_val_MVI_5511",
+    "class_id": "AFTERNOON",
+    "gloss": "Afternoon",
+    "category": "Days_and_Time",
+    "split": "val",
+    "video_path": "Days_and_Time/83. Afternoon/MVI_5511.MOV",
+    "signer_id": null,
+    "download_url": null
+  },
+  {
+    "sample_id": "INCLUDE_Bill_val_MVI_8676",
+    "class_id": "BILLING_PAYMENT",
+    "gloss": "Bill",
+    "category": "Society",
+    "split": "val",
+    "video_path": "Society/5. Bill/MVI_8676.MOV",
+    "signer_id": null,
+    "download_url": null
+  },
+  {
+    "sample_id": "INCLUDE_Today_val_MVI_5031",
+    "class_id": "TODAY",
+    "gloss": "Today",
+    "category": "Days_and_Time",
+    "split": "val",
+    "video_path": "Days_and_Time/73. Today/MVI_5031.MOV",
+    "signer_id": null,
+    "download_url": null
+  },
+  {
+    "sample_id": "INCLUDE_sick_val_MVI_9444",
+    "class_id": "PAIN_SYMPTOM",
+    "gloss": "sick",
+    "category": "Adjectives",
+    "split": "val",
+    "video_path": "Adjectives/98. sick/MVI_9444.MOV",
+    "signer_id": null,
+    "download_url": null
+  },
+  {
+    "sample_id": "INCLUDE_Location_val_MVI_3669",
+    "class_id": "LOCATION_WHERE",
+    "gloss": "Location",
+    "category": "Places",
+    "split": "val",
+    "video_path": "Places/36. Location/MVI_3669.MOV",
+    "signer_id": null,
+    "download_url": null
+  },
+  {
+    "sample_id": "INCLUDE_Location_val_MVI_3428",
+    "class_id": "LOCATION_WHERE",
+    "gloss": "Location",
+    "category": "Places",
+    "split": "val",
+    "video_path": "Places/36. Location/MVI_3428.MOV",
+    "signer_id": null,
+    "download_url": null
+  },
+  {
+    "sample_id": "INCLUDE_sick_val_MVI_5329",
+    "class_id": "PAIN_SYMPTOM",
+    "gloss": "sick",
+    "category": "Adjectives",
+    "split": "val",
+    "video_path": "Adjectives/98. sick/MVI_5329.MOV",
+    "signer_id": null,
+    "download_url": null
+  },
+  {
+    "sample_id": "INCLUDE_Medicine_val_MVI_8665",
+    "class_id": "PHARMACY_MEDICINE",
+    "gloss": "Medicine",
+    "category": "Society",
+    "split": "val",
+    "video_path": "Society/3. Medicine/MVI_8665.MOV",
+    "signer_id": null,
+    "download_url": null
+  },
+  {
+    "sample_id": "INCLUDE_Hello_val_MVI_9984",
+    "class_id": "GREETING_HELLO",
+    "gloss": "Hello",
+    "category": "Greetings",
+    "split": "val",
+    "video_path": "Greetings/48. Hello/MVI_9984.MOV",
+    "signer_id": null,
+    "download_url": null
+  },
+  {
+    "sample_id": "INCLUDE_I_val_MVI_0066",
+    "class_id": "PRONOUN_I",
+    "gloss": "I",
+    "category": "Pronouns",
+    "split": "val",
+    "video_path": "Pronouns/40. I/MVI_0066.MOV",
+    "signer_id": null,
+    "download_url": null
+  },
+  {
+    "sample_id": "INCLUDE_Patient_val_MVI_4475",
+    "class_id": "PATIENT",
+    "gloss": "Patient",
+    "category": "Jobs",
+    "split": "val",
+    "video_path": "Jobs/88. Patient/MVI_4475.MOV",
+    "signer_id": null,
+    "download_url": null
+  },
+  {
+    "sample_id": "INCLUDE_I_val_MVI_0013",
+    "class_id": "PRONOUN_I",
+    "gloss": "I",
+    "category": "Pronouns",
+    "split": "val",
+    "video_path": "Pronouns/40. I/MVI_0013.MOV",
+    "signer_id": null,
+    "download_url": null
+  },
+  {
+    "sample_id": "INCLUDE_Tomorrow_val_MVI_9164",
+    "class_id": "TOMORROW",
+    "gloss": "Tomorrow",
+    "category": "Days_and_Time",
+    "split": "val",
+    "video_path": "Days_and_Time/74. Tomorrow/MVI_9164.MOV",
+    "signer_id": null,
+    "download_url": null
+  },
+  {
+    "sample_id": "INCLUDE_Morning_val_MVI_9188",
+    "class_id": "MORNING",
+    "gloss": "Morning",
+    "category": "Days_and_Time",
+    "split": "val",
+    "video_path": "Days_and_Time/82. Morning/MVI_9188.MOV",
+    "signer_id": null,
+    "download_url": null
+  },
+  {
+    "sample_id": "INCLUDE_sick_test_MVI_5172",
+    "class_id": "PAIN_SYMPTOM",
+    "gloss": "sick",
+    "category": "Adjectives",
+    "split": "test",
+    "video_path": "Adjectives/98. sick/MVI_5172.MOV",
+    "signer_id": null,
+    "download_url": null
+  },
+  {
+    "sample_id": "INCLUDE_sick_test_MVI_9528",
+    "class_id": "PAIN_SYMPTOM",
+    "gloss": "sick",
+    "category": "Adjectives",
+    "split": "test",
+    "video_path": "Adjectives/98. sick/MVI_9528.MOV",
+    "signer_id": null,
+    "download_url": null
+  },
+  {
+    "sample_id": "INCLUDE_sick_test_MVI_5170",
+    "class_id": "PAIN_SYMPTOM",
+    "gloss": "sick",
+    "category": "Adjectives",
+    "split": "test",
+    "video_path": "Adjectives/98. sick/MVI_5170.MOV",
+    "signer_id": null,
+    "download_url": null
+  },
+  {
+    "sample_id": "INCLUDE_sick_test_MVI_9527",
+    "class_id": "PAIN_SYMPTOM",
+    "gloss": "sick",
+    "category": "Adjectives",
+    "split": "test",
+    "video_path": "Adjectives/98. sick/MVI_9527.MOV",
+    "signer_id": null,
+    "download_url": null
+  },
+  {
+    "sample_id": "INCLUDE_Today_test_MVI_4616",
+    "class_id": "TODAY",
+    "gloss": "Today",
+    "category": "Days_and_Time",
+    "split": "test",
+    "video_path": "Days_and_Time/73. Today/MVI_4616.MOV",
+    "signer_id": null,
+    "download_url": null
+  },
+  {
+    "sample_id": "INCLUDE_Tomorrow_test_MVI_5477",
+    "class_id": "TOMORROW",
+    "gloss": "Tomorrow",
+    "category": "Days_and_Time",
+    "split": "test",
+    "video_path": "Days_and_Time/74. Tomorrow/MVI_5477.MOV",
+    "signer_id": null,
+    "download_url": null
+  },
+  {
+    "sample_id": "INCLUDE_Morning_test_MVI_4651",
+    "class_id": "MORNING",
+    "gloss": "Morning",
+    "category": "Days_and_Time",
+    "split": "test",
+    "video_path": "Days_and_Time/82. Morning/MVI_4651.MOV",
+    "signer_id": null,
+    "download_url": null
+  },
+  {
+    "sample_id": "INCLUDE_Afternoon_test_MVI_5514",
+    "class_id": "AFTERNOON",
+    "gloss": "Afternoon",
+    "category": "Days_and_Time",
+    "split": "test",
+    "video_path": "Days_and_Time/83. Afternoon/MVI_5514.MOV",
+    "signer_id": null,
+    "download_url": null
+  },
+  {
+    "sample_id": "INCLUDE_Time_test_MVI_9202",
+    "class_id": "TIME_WHEN",
+    "gloss": "Time",
+    "category": "Days_and_Time",
+    "split": "test",
+    "video_path": "Days_and_Time/86. Time/MVI_9202.MOV",
+    "signer_id": null,
+    "download_url": null
+  },
+  {
+    "sample_id": "INCLUDE_Hello_test_MVI_0029",
+    "class_id": "GREETING_HELLO",
+    "gloss": "Hello",
+    "category": "Greetings",
+    "split": "test",
+    "video_path": "Greetings/48. Hello/MVI_0029.MOV",
+    "signer_id": null,
+    "download_url": null
+  },
+  {
+    "sample_id": "INCLUDE_Hello_test_MVI_9914",
+    "class_id": "GREETING_HELLO",
+    "gloss": "Hello",
+    "category": "Greetings",
+    "split": "test",
+    "video_path": "Greetings/48. Hello/MVI_9914.MOV",
+    "signer_id": null,
+    "download_url": null
+  },
+  {
+    "sample_id": "INCLUDE_Hello_test_MVI_9956",
+    "class_id": "GREETING_HELLO",
+    "gloss": "Hello",
+    "category": "Greetings",
+    "split": "test",
+    "video_path": "Greetings/48. Hello/MVI_9956.MOV",
+    "signer_id": null,
+    "download_url": null
+  },
+  {
+    "sample_id": "INCLUDE_Hello_test_MVI_9983",
+    "class_id": "GREETING_HELLO",
+    "gloss": "Hello",
+    "category": "Greetings",
+    "split": "test",
+    "video_path": "Greetings/48. Hello/MVI_9983.MOV",
+    "signer_id": null,
+    "download_url": null
+  },
+  {
+    "sample_id": "INCLUDE_Doctor_test_MVI_4471",
+    "class_id": "DOCTOR",
+    "gloss": "Doctor",
+    "category": "Jobs",
+    "split": "test",
+    "video_path": "Jobs/87. Doctor/MVI_4471.MOV",
+    "signer_id": null,
+    "download_url": null
+  },
+  {
+    "sample_id": "INCLUDE_Doctor_test_MVI_8875",
+    "class_id": "DOCTOR",
+    "gloss": "Doctor",
+    "category": "Jobs",
+    "split": "test",
+    "video_path": "Jobs/87. Doctor/MVI_8875.MOV",
+    "signer_id": null,
+    "download_url": null
+  },
+  {
+    "sample_id": "INCLUDE_Doctor_test_MVI_5323",
+    "class_id": "DOCTOR",
+    "gloss": "Doctor",
+    "category": "Jobs",
+    "split": "test",
+    "video_path": "Jobs/87. Doctor/MVI_5323.MOV",
+    "signer_id": null,
+    "download_url": null
+  },
+  {
+    "sample_id": "INCLUDE_Patient_test_MVI_8878",
+    "class_id": "PATIENT",
+    "gloss": "Patient",
+    "category": "Jobs",
+    "split": "test",
+    "video_path": "Jobs/88. Patient/MVI_8878.MOV",
+    "signer_id": null,
+    "download_url": null
+  },
+  {
+    "sample_id": "INCLUDE_Patient_test_MVI_5326",
+    "class_id": "PATIENT",
+    "gloss": "Patient",
+    "category": "Jobs",
+    "split": "test",
+    "video_path": "Jobs/88. Patient/MVI_5326.MOV",
+    "signer_id": null,
+    "download_url": null
+  },
+  {
+    "sample_id": "INCLUDE_Patient_test_MVI_4758",
+    "class_id": "PATIENT",
+    "gloss": "Patient",
+    "category": "Jobs",
+    "split": "test",
+    "video_path": "Jobs/88. Patient/MVI_4758.MOV",
+    "signer_id": null,
+    "download_url": null
+  },
+  {
+    "sample_id": "INCLUDE_Hospital_test_MVI_3481",
+    "class_id": "HOSPITAL",
+    "gloss": "Hospital",
+    "category": "Places",
+    "split": "test",
+    "video_path": "Places/30. Hospital/MVI_3481.MOV",
+    "signer_id": null,
+    "download_url": null
+  },
+  {
+    "sample_id": "INCLUDE_Hospital_test_MVI_3639",
+    "class_id": "HOSPITAL",
+    "gloss": "Hospital",
+    "category": "Places",
+    "split": "test",
+    "video_path": "Places/30. Hospital/MVI_3639.MOV",
+    "signer_id": null,
+    "download_url": null
+  },
+  {
+    "sample_id": "INCLUDE_Hospital_test_MVI_3640",
+    "class_id": "HOSPITAL",
+    "gloss": "Hospital",
+    "category": "Places",
+    "split": "test",
+    "video_path": "Places/30. Hospital/MVI_3640.MOV",
+    "signer_id": null,
+    "download_url": null
+  },
+  {
+    "sample_id": "INCLUDE_Hospital_test_MVI_3483",
+    "class_id": "HOSPITAL",
+    "gloss": "Hospital",
+    "category": "Places",
+    "split": "test",
+    "video_path": "Places/30. Hospital/MVI_3483.MOV",
+    "signer_id": null,
+    "download_url": null
+  },
+  {
+    "sample_id": "INCLUDE_Location_test_MVI_3341",
+    "class_id": "LOCATION_WHERE",
+    "gloss": "Location",
+    "category": "Places",
+    "split": "test",
+    "video_path": "Places/36. Location/MVI_3341.MOV",
+    "signer_id": null,
+    "download_url": null
+  },
+  {
+    "sample_id": "INCLUDE_Location_test_MVI_3342",
+    "class_id": "LOCATION_WHERE",
+    "gloss": "Location",
+    "category": "Places",
+    "split": "test",
+    "video_path": "Places/36. Location/MVI_3342.MOV",
+    "signer_id": null,
+    "download_url": null
+  },
+  {
+    "sample_id": "INCLUDE_Location_test_MVI_3672",
+    "class_id": "LOCATION_WHERE",
+    "gloss": "Location",
+    "category": "Places",
+    "split": "test",
+    "video_path": "Places/36. Location/MVI_3672.MOV",
+    "signer_id": null,
+    "download_url": null
+  },
+  {
+    "sample_id": "INCLUDE_Location_test_MVI_3588",
+    "class_id": "LOCATION_WHERE",
+    "gloss": "Location",
+    "category": "Places",
+    "split": "test",
+    "video_path": "Places/36. Location/MVI_3588.MOV",
+    "signer_id": null,
+    "download_url": null
+  },
+  {
+    "sample_id": "INCLUDE_I_test_MVI_9920",
+    "class_id": "PRONOUN_I",
+    "gloss": "I",
+    "category": "Pronouns",
+    "split": "test",
+    "video_path": "Pronouns/40. I/MVI_9920.MOV",
+    "signer_id": null,
+    "download_url": null
+  },
+  {
+    "sample_id": "INCLUDE_I_test_MVI_0001",
+    "class_id": "PRONOUN_I",
+    "gloss": "I",
+    "category": "Pronouns",
+    "split": "test",
+    "video_path": "Pronouns/40. I/MVI_0001.MOV",
+    "signer_id": null,
+    "download_url": null
+  },
+  {
+    "sample_id": "INCLUDE_I_test_MVI_0002",
+    "class_id": "PRONOUN_I",
+    "gloss": "I",
+    "category": "Pronouns",
+    "split": "test",
+    "video_path": "Pronouns/40. I/MVI_0002.MOV",
+    "signer_id": null,
+    "download_url": null
+  },
+  {
+    "sample_id": "INCLUDE_I_test_MVI_0065",
+    "class_id": "PRONOUN_I",
+    "gloss": "I",
+    "category": "Pronouns",
+    "split": "test",
+    "video_path": "Pronouns/40. I/MVI_0065.MOV",
+    "signer_id": null,
+    "download_url": null
+  },
+  {
+    "sample_id": "INCLUDE_you_test_MVI_9886",
+    "class_id": "PRONOUN_YOU",
+    "gloss": "you",
+    "category": "Pronouns",
+    "split": "test",
+    "video_path": "Pronouns/41. you/MVI_9886.MOV",
+    "signer_id": null,
+    "download_url": null
+  },
+  {
+    "sample_id": "INCLUDE_you_test_MVI_0017",
+    "class_id": "PRONOUN_YOU",
+    "gloss": "you",
+    "category": "Pronouns",
+    "split": "test",
+    "video_path": "Pronouns/41. you/MVI_0017.MOV",
+    "signer_id": null,
+    "download_url": null
+  },
+  {
+    "sample_id": "INCLUDE_you_test_MVI_9923",
+    "class_id": "PRONOUN_YOU",
+    "gloss": "you",
+    "category": "Pronouns",
+    "split": "test",
+    "video_path": "Pronouns/41. you/MVI_9923.MOV",
+    "signer_id": null,
+    "download_url": null
+  },
+  {
+    "sample_id": "INCLUDE_you_test_MVI_9924",
+    "class_id": "PRONOUN_YOU",
+    "gloss": "you",
+    "category": "Pronouns",
+    "split": "test",
+    "video_path": "Pronouns/41. you/MVI_9924.MOV",
+    "signer_id": null,
+    "download_url": null
+  },
+  {
+    "sample_id": "INCLUDE_Medicine_test_MVI_4805",
+    "class_id": "PHARMACY_MEDICINE",
+    "gloss": "Medicine",
+    "category": "Society",
+    "split": "test",
+    "video_path": "Society/3. Medicine/MVI_4805.MOV",
+    "signer_id": null,
+    "download_url": null
+  },
+  {
+    "sample_id": "INCLUDE_Medicine_test_MVI_8934",
+    "class_id": "PHARMACY_MEDICINE",
+    "gloss": "Medicine",
+    "category": "Society",
+    "split": "test",
+    "video_path": "Society/3. Medicine/MVI_8934.MOV",
+    "signer_id": null,
+    "download_url": null
+  },
+  {
+    "sample_id": "INCLUDE_Medicine_test_MVI_4261",
+    "class_id": "PHARMACY_MEDICINE",
+    "gloss": "Medicine",
+    "category": "Society",
+    "split": "test",
+    "video_path": "Society/3. Medicine/MVI_4261.MOV",
+    "signer_id": null,
+    "download_url": null
+  },
+  {
+    "sample_id": "INCLUDE_Bill_test_MVI_4810",
+    "class_id": "BILLING_PAYMENT",
+    "gloss": "Bill",
+    "category": "Society",
+    "split": "test",
+    "video_path": "Society/5. Bill/MVI_4810.MOV",
+    "signer_id": null,
+    "download_url": null
+  },
+  {
+    "sample_id": "INCLUDE_Bill_test_MVI_4811",
+    "class_id": "BILLING_PAYMENT",
+    "gloss": "Bill",
+    "category": "Society",
+    "split": "test",
+    "video_path": "Society/5. Bill/MVI_4811.MOV",
+    "signer_id": null,
+    "download_url": null
+  },
+  {
+    "sample_id": "INCLUDE_Bill_test_MVI_4809",
+    "class_id": "BILLING_PAYMENT",
+    "gloss": "Bill",
+    "category": "Society",
+    "split": "test",
+    "video_path": "Society/5. Bill/MVI_4809.MOV",
+    "signer_id": null,
+    "download_url": null
+  }
+]

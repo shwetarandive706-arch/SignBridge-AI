@@ -13,6 +13,13 @@ __pycache__/
 *.so
 .pytest_cache/
 
+# Dataset & Media Files (Git Protection)
+assets/raw/**/*.mp4
+assets/raw/**/*.avi
+assets/processed/**/*.npy
+assets/processed/**/*.npz
+.cache/
+
 # Production builds
 dist/
 build/
